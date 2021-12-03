@@ -1,6 +1,8 @@
 # Twoten
 
-A terminal 2048 game completed for a VPCC Hands-On Programming Projects workshop
+A terminal 2048 game completed for a VPCC Hands-On Programming Projects workshop.
+
+Based on 2048 found here: https://play2048.co/
 
 ## Setup
 
